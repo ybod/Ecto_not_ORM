@@ -1,5 +1,7 @@
 # Ecto in not an ORM
 
+This repository is an Elixir project used in my talk for 3rd Kyiv Elixir Meetup. You can find presentation itself in the root folder of the project: `Ecto_is_not_an_ORM.pdf`
+
 ## Instructions
 
   1. `mix ecto.create`
